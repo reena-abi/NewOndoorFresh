@@ -87,7 +87,7 @@
                     <div class="col-md-8">
 
                     </div>
-                    <div class="col-md-4">
+               <%--     <div class="col-md-4">
 
                         <div class="widget">
                             <ul class="list-inline  text-right flip sm-text-center">
@@ -95,7 +95,7 @@
                                 
                             </ul>
                         </div>
-                    </div>
+                    </div>--%>
                 </div>
             </div>
         </div>
@@ -237,7 +237,7 @@
                                                 
                                                 <li><a href="OilSeed.aspx">OILSEEDS CULTURE</a></li>
                                                 <li><a href="SpicesAgriculture.aspx">SPICES CULTURE</a></li>
-                                                <li><a href="Agriculture/%23.html">PULSE CULTURE</a></li>
+                                                <li><a href="PulseCulture.aspx">PULSE CULTURE</a></li>
 
 
                                             </ul>
