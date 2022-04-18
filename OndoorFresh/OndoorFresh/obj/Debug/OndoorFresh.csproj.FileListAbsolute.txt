@@ -70,3 +70,13 @@ C:\Users\ABI Fintech\Pictures\OndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\Ondo
 C:\Users\ABI Fintech\Pictures\OndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.csproj.CopyComplete
 C:\Users\ABI Fintech\Pictures\OndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.dll
 C:\Users\ABI Fintech\Pictures\OndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.pdb
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\bin\OndoorFresh.dll.config
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\bin\OndoorFresh.dll
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\bin\OndoorFresh.pdb
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.csprojAssemblyReference.cache
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.csproj.CoreCompileInputs.cache
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.csproj.CopyComplete
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.dll
+E:\ABI\Repo\NewOndoorFresh\OndoorFresh\OndoorFresh\obj\Debug\OndoorFresh.pdb

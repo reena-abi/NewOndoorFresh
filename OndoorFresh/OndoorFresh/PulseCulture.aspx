@@ -1,9 +1,9 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeFile="SpicesAgriculture.aspx.cs" Inherits="SpicesAgriculture" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeFile="PulseCulture.aspx.cs" Inherits="PulseCulture" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-     <div class="main-content">
+    <div class="main-content">
 
     <!-- Section: inner-header -->
     <section class="inner-header divider parallax layer-overlay overlay-dark-5" data-bg-img="_/images/bg/slide1.html">
@@ -15,8 +15,8 @@
                         <h2 class="title text-white">Spices Agriculture</h2>
                         <ol class="breadcrumb text-center text-black mt-10">
                             <li><a href="#">Home</a></li>
-                            <li><a href="#">Agriculture</a></li>
-                            <li class="active text-gray-silver">SPICE AGRICULTURE</li>
+                            <li><a href="#">culture</a></li>
+                            <li class="active text-gray-silver">Culture</li>
                         </ol>
                     </div>
                 </div>
@@ -30,14 +30,14 @@
             <div class="section-content">
                 <div class="row features-style1">
                     <div class="col-md-7">
-                        <h2 class="mt-0 text-theme-colored">Spices have been used <span class="text-theme-colored2"> ancient times</span>, and in many different cultures and parts of the world.</h2>
-                        <p class="">Spices have been used since ancient times, and in many different cultures and parts of the world.</p>
+                        <h2 class="mt-0 text-theme-colored"> have been used <span class="text-theme-colored2"> ancient times</span>, and in many different cultures and parts of the world.s</h2>
+                        <p class=""> have been used since ancient times, and in many different cultures and parts of the world.</p>
                         <div class="mt-20">
                             <div class="left media p-0 mb-10">
                                 <a href="#" class="pull-left flip"><i class="fa fa-2x fa-pie-chart text-theme-colored"></i></a>
                                 <div class="media-body">
-                                    <h5 class="mt-0">Spices In Different Culture</h5>
-                                    <p>Spices have been used both as food and medicine, and flavoring, for thousands of years. But where are spices grown in India? The answer depends on which type of spice we are talking about.</p>
+                                    <h5 class="mt-0">Pulses Occupy An Important Position</h5>
+                                    <p>Pulses occupy an important position in food and nutritional security in India. Food security has been a major area of concern for agricultural scientists and planners in India since long. India is the still by and large vegetarian in dietary habit and heavily depends upon vegetative source to meet out its daily protein requirement. India produces over 200 million tons of food grains every year with an increase of four folds since independence. Increased efforts to produce more food have resulted in tremendous shift in cropping systems towards cereal-cereal based systems. India is bound to be global leader in terms of production and consumer of pulses. Since, India is leading importer of pulses in the world; production of pulse crops has been stagnant at between 11 and 14 million tons over the last two decades. Consequent upon this there is widening gap between demand and supply. Still India is far behind in pulses production. About 20% of the total pulse demands are met by imports only.</p>
                                 </div>
                             </div>
                         </div>
@@ -45,8 +45,8 @@
                             <div class="left media p-0 mb-10">
                                 <a href="#" class="pull-left flip"><i class="fa fa-2x fa-paper-plane text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h5 class="mt-0">Spices Always Been A Land Of Amazing Cuisine</h5>
-                                    <p>India is a land of spices and has always been a land of amazing cuisine. Our ancestors had discovered some of the best spices while others were traded and brought to India, These spices are the reason why India though one land has so many cuisines. The kind of cuisine you taste in south India is totally in contrast to what you will get to see in the north. While east and west have their own unique tastes. </p>
+                                    <h5 class="mt-0">Proper Management Practices</h5>
+                                    <p>In order to harness higher yields, proper management practices play the most important role. Hence, it is imperative to understand the constraints in pulse production to realize higher productivity and maintain soil health. </p>
                                 </div>
                             </div>
                         </div>
@@ -54,8 +54,8 @@
                             <div class="left media p-0 mb-10">
                                 <a href="#" class="pull-left flip"><i class="fa fa-2x fa-star text-theme-colored"></i></a>
                                 <div class="media-body">
-                                    <h5 class="mt-0">Concept Of The Spice Trade and Finding New Spice Routes</h5>
-                                    <p>While in olden times many spices were traded for the ones that are naturally grown in India, the concept of the spice trade and finding new spice routes has declined over the years. India has over time become not only a self-sufficient country but also an exporter of spices that were once not even grown in India. </p>
+                                    <h5 class="mt-0">The Seed Replacement rate</h5>
+                                    <p>The seed replacement rate is still (<30%) which is lower than cereals especially wheat and rice. It has been projected that 32.0 million tons are the total pulse requirement for the burgeoning population of India, which will grow to 1.69 billion by 2050. To attain up to this level an annual growth rate of 2.2% is required. The demand for pulse continues to grow at 2.8% per annum. Although challenges are diverse including climate changing scenario, decreasing land and water Page | 38 resources, this target is not unattainable. Increasing the average productivity of pulses up to more than 1200 kg ha-1 and bringing an additional area of about 3.5 million ha under pulse cultivation will be a concrete step in this direction. Enhancement of yield through development of input responsive varieties with multiple resistances to diseases and insect pests, short duration varieties that fit well in different cropping systems and climate resilient varieties of pulses will be enormously helpful in a vertical expansion of pulses in the country. Similarly, development of new plant types for different agro-climatic situations, and development of photo-thermo insensitive cultivars in crops like urd bean and mung bean will help expanding the areas of these crops in the non-traditional areas of the country. The expansion of area under short duration varieties, development of multiple disease/pest resistance varieties, use of micro-nutrients like zinc and sulphur and increase in area under Rabi pulse crops should be emphasised to increase pulse production. The minimum support price is not effective for pulse crops; prevailing market prices should be taken into account while fixing the MSP to bridge the gap between demand and supply. This book chapter addresses the major bottlenecks of pulse production and focus on the way forward for improving pulses production in India, vertically and horizontally as well. </p>
                                 </div>
                             </div>
                         </div>

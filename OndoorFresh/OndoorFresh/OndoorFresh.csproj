@@ -257,6 +257,8 @@
     <Content Include="Partner\OndoorWarehouse.html" />
     <Content Include="Partner\_\images\bg\slide1.html" />
     <Content Include="Partner\_\js\html2pdf.bundle.min.html" />
+    <Content Include="PulseCulture.aspx" />
+    <Content Include="SpicesAgriculture.aspx" />
     <Content Include="Trade\js\chart.html" />
     <Content Include="Trade\Trade2019.html" />
     <Content Include="Trade\Trade2020.html" />
@@ -304,6 +306,17 @@
       <DependentUpon>Master.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PulseCulture.aspx.cs">
+      <DependentUpon>PulseCulture.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpicesAgriculture.aspx.cs">
+      <DependentUpon>SpicesAgriculture.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpicesAgriculture.aspx.designer.cs">
+      <DependentUpon>SpicesAgriculture.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Master.Master" />
